@@ -1,0 +1,13 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "userEmail": "john.doe@example.com",
+  "gender": "Male",
+  "userNumber": "1234567890",
+  "dob": "1 Jan 2000",
+  "subjects": ["Maths", "Chemistry", "Computer Science"],
+  "hobbies": ["Reading", "Music"],
+  "address": "2527  Traders Alley",
+  "state": "Uttar Pradesh",
+  "city": "Agra"
+}
